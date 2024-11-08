@@ -1,7 +1,7 @@
 # TrafficVision BD 🚦  
 *AI-Powered Traffic Management for Bangladesh’s Roads*
 
-![Traffic Congestion](./path-to-your-image.png)
+![Traffic Congestion](traffic_image.png)
 *Image credit: The Daily Star*
 
 ---
