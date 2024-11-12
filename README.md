@@ -36,7 +36,7 @@ By focusing on these key areas, TrafficVision BD aims to make roads safer and mo
 
 # 📺 Featured YouTube Videos
 
-[![TrafficVision-BD Project Proposal](https://ytcards.demolab.com/?id=QPipnka0E7Q&title=TrafficVisionBD+Project+Proposal&lang=en&timestamp=1730851200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "TrafficVision-BD Project Proposal")](https://www.youtube.com/watch?v=KqDPBnMs-wE)<br/><br/><br/><br/>
+[![TrafficVisionBD Project Proposal](https://ytcards.demolab.com/?id=QPipnka0E7Q&title=TrafficVisionBD+Project+Proposal&lang=en&timestamp=1730851200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "TrafficVisionBD Project Proposal")](https://www.youtube.com/watch?v=QPipnka0E7Q&t=389s)<br/><br/><br/><br/>
 
 
 
