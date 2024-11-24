@@ -20,7 +20,7 @@
 *Stay tuned for future updates!*
 
 Update Version 1.0 = https://povashraful.notion.site/Datasets-for-TrafficVisionBD-Unfiltered-13a2c788fce380849917e4c9206db3fe
-[![TrafficVisionBD Project Proposal](https://ytcards.demolab.com/?
+
 
 Welcome to **TrafficVision BD**, an AI-driven project aimed at transforming traffic management and road safety in Bangladesh. This project leverages machine learning, computer vision, and data analysis to address the unique challenges of Bangladesh's congested roads and unpredictable traffic patterns.
 
