@@ -22,7 +22,7 @@
 ## 📢 Project Updates
 *Stay tuned for future updates!*
 
-Update Version 1.0 [10 Nov, 2024]= https://povashraful.notion.site/dataset <br/><br/>
+Update Version 1.0 [10 Nov, 2024]= https://povashraful.notion.site/dataset <br/>
 Update Version 1.1 [24 Nov, 2024] = https://povashraful.notion.site/literature-review<br/>
 Update Version 1.2 [30 Nov, 2024] = https://povashraful.notion.site/road-accidents-eda<br/>
 
