@@ -4,7 +4,7 @@
 
 ![Traffic Congestion](image.png)
 *Image credit: The Daily Star*
-![Traffic Congestion](project_update/tr.png)
+![Traffic Congestion](project_updates/tr.png)
 *Image credit: The Daily Star*
 
 
