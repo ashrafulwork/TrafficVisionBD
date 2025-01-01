@@ -26,7 +26,7 @@ Update Version 1.0 [10 Nov, 2024]= https://povashraful.notion.site/dataset <br/>
 Update Version 1.1 [24 Nov, 2024] = https://povashraful.notion.site/literature-review<br/>
 Update Version 1.2 [30 Nov, 2024] = https://povashraful.notion.site/road-accidents-eda<br/><br/>
 Trying to train models on the dataset:
-![Trying to train models on the dataset](project_updates/tr.png)
+![Trying to train models on the dataset](project_updates/train1.png)
 
 
 
