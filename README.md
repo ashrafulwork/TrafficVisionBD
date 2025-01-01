@@ -40,6 +40,10 @@ TrafficVision BD is designed to:
 - **Predict Accident-Prone Areas**: Applying time series analysis to identify high-risk zones based on traffic patterns and historical data.
 - **Detect Traffic Violations**: Automatically flagging violations like illegal parking, jaywalking, and helmet non-compliance.
 
+What will we use? 
+
+Machine Learning + Deep Learning + Reinforcement Learning + Computer Vision
+
 By focusing on these key areas, TrafficVision BD aims to make roads safer and more organized for all users.
 
 
