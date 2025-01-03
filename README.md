@@ -1,3 +1,8 @@
+## License
+
+This work is for research purposes and non-commercial use only. See [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+
 ----
 # TrafficVision BD 🚦  
 *AI-Powered Traffic Management for Bangladesh’s Roads*
@@ -98,6 +103,3 @@ Here’s what’s next for TrafficVision BD:
 
 ps. This readme was made by the help of ChatGPT 
 
-## License
-
-Dataset is for research purposes and non-commercial use only. See [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
