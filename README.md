@@ -4,7 +4,7 @@ This work is for research purposes and non-commercial use only. See [Attribution
 
 
 ----
-# TrafficVision BD 🚦  
+# # TrafficVisionBD: AI for Traffic Management in Bangladesh 🚦  
 *AI-Powered Traffic Management for Bangladesh’s Roads*
 
 ![Traffic Congestion](image.png)
@@ -26,17 +26,20 @@ This work is for research purposes and non-commercial use only. See [Attribution
 
 ## What I'm Working On
 
-- **TrafficVisionBD**: The project focuses on detecting and analyzing traffic elements such as vehicles, traffic signs, intersections, jaywalking, illegal parking, and more. 
+- **TrafficVisionBD**: The project focuses on detecting and analyzing traffic elements such as vehicles, traffic signs, intersections, jaywalking, illegal parking, and more.
+  
     - **Current Focus**: Data collection and annotation (over 20,000 images and diverse datasets).
+      
     - **Future Goal**: Develop and deploy a real-time traffic management system using deep learning models and computer vision techniques.
+
 
 ## Demo Videos (Inspiration from Researchers/Creators)
 
 Below are some demo videos from researchers and creators whose work aligns with the objectives of this project and provides valuable insights into the technologies and approaches I plan to use:
 
-1. **[Traffic Flow and Vehicle Detection using YOLO](https://www.youtube.com/watch?v=H7g7elewctk)**: A demonstration of traffic detection using YOLO-based models. This video showcases real-time object detection, a key technique I aim to implement in **TrafficVisionBD**.
+1. **[Jaywalking Detection using AI] (https://www.youtube.com/watch?v=H7g7elewctk)**: A demonstration of traffic detection using YOLO-based models. This video showcases real-time object detection, a key technique I aim to implement in **TrafficVisionBD**.
    
-2. **[Road Sign Detection and Segmentation](https://www.youtube.com/watch?v=SJG3pRjNH7Q)**: This video showcases advanced segmentation models for detecting road markers and traffic signs. Such models are essential for handling the complexities of traffic environments, which I plan to incorporate into my system.
+2. **[Vehicle Count at Junctions] (https://www.youtube.com/watch?v=SJG3pRjNH7Q)**: This video showcases advanced segmentation models for detecting road markers and traffic signs. Such models are essential for handling the complexities of traffic environments, which I plan to incorporate into my system.
 
 ## What I Aim to Achieve
 
