@@ -50,6 +50,14 @@ These demo videos serve as inspiration for my work. Through **TrafficVisionBD**,
 - Build AI-driven systems that adapt to dynamic road conditions and provide real-time traffic solutions.
 
 
+## We will try to implement four different parts of AI-
+
+**Machine Learning** + **Deep Learning **+ **Reinforcement Learning **+ **Computer Vision**
+
+By focusing on these key areas, TrafficVision BD aims to make roads safer and more organized for all users.
+
+
+
 
 ---
 
@@ -69,12 +77,6 @@ Welcome to **TrafficVision BD**, an AI-driven project aimed at transforming traf
 
 
 
-
-What will we use? 
-
-Machine Learning + Deep Learning + Reinforcement Learning + Computer Vision
-
-By focusing on these key areas, TrafficVision BD aims to make roads safer and more organized for all users.
 
 
 
