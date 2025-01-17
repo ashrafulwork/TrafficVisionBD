@@ -37,10 +37,11 @@ This work is for research purposes and non-commercial use only. See [Attribution
 
 Below are some demo videos from researchers and creators whose work aligns with the objectives of this project and provides valuable insights into the technologies and approaches I plan to use:
 
-1. **[Jaywalking Detection using AI] (https://www.youtube.com/watch?v=H7g7elewctk)**: A demonstration of traffic detection using YOLO-based models. This video showcases real-time object detection, a key technique I aim to implement in **TrafficVisionBD**.
+1. **[Jaywalking Detection using AI] (https://www.youtube.com/watch?v=H7g7elewctk)**: This video demonstrates the use of AI for detecting jaywalking, an important aspect of **TrafficVisionBD**. Detecting such behaviors can help in improving traffic safety by identifying pedestrians crossing roads illegally or in unsafe areas.
    
-2. **[Vehicle Count at Junctions] (https://www.youtube.com/watch?v=SJG3pRjNH7Q)**: This video showcases advanced segmentation models for detecting road markers and traffic signs. Such models are essential for handling the complexities of traffic environments, which I plan to incorporate into my system.
+2. **[Vehicle Count at Junctions] (https://www.youtube.com/watch?v=SJG3pRjNH7Q)**: A demonstration of how many cars pass through a particular junction. This is crucial for traffic flow analysis and can be implemented in **TrafficVisionBD** to analyze vehicle movement and adjust traffic signals accordingly for better management.
 
+   
 ## What I Aim to Achieve
 
 These demo videos serve as inspiration for my work. Through **TrafficVisionBD**, I aim to:
