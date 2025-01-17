@@ -24,6 +24,31 @@ This work is for research purposes and non-commercial use only. See [Attribution
 
 ---
 
+## What I'm Working On
+
+- **TrafficVisionBD**: The project focuses on detecting and analyzing traffic elements such as vehicles, traffic signs, intersections, jaywalking, illegal parking, and more. 
+    - **Current Focus**: Data collection and annotation (over 20,000 images and diverse datasets).
+    - **Future Goal**: Develop and deploy a real-time traffic management system using deep learning models and computer vision techniques.
+
+## Demo Videos (Inspiration from Researchers/Creators)
+
+Below are some demo videos from researchers and creators whose work aligns with the objectives of this project and provides valuable insights into the technologies and approaches I plan to use:
+
+1. **[Traffic Flow and Vehicle Detection using YOLO](https://www.youtube.com/watch?v=H7g7elewctk)**: A demonstration of traffic detection using YOLO-based models. This video showcases real-time object detection, a key technique I aim to implement in **TrafficVisionBD**.
+   
+2. **[Road Sign Detection and Segmentation](https://www.youtube.com/watch?v=SJG3pRjNH7Q)**: This video showcases advanced segmentation models for detecting road markers and traffic signs. Such models are essential for handling the complexities of traffic environments, which I plan to incorporate into my system.
+
+## What I Aim to Achieve
+
+These demo videos serve as inspiration for my work. Through **TrafficVisionBD**, I aim to:
+- Enable real-time vehicle detection and traffic analysis.
+- Improve safety and efficiency in urban traffic management.
+- Build AI-driven systems that adapt to dynamic road conditions and provide real-time traffic solutions.
+
+
+
+---
+
 ## 📢 Project Updates
 *Stay tuned for future updates!*
 
@@ -39,17 +64,16 @@ Update Version 1.2 [30 Nov, 2024] = Trying to train models on the dataset:
 Welcome to **TrafficVision BD**, an AI-driven project aimed at transforming traffic management and road safety in Bangladesh. This project leverages machine learning, computer vision, and data analysis to address the unique challenges of Bangladesh's congested roads and unpredictable traffic patterns.
 
 
-## 🌟 Project Overview
-TrafficVision BD is designed to:
-- **Analyze Traffic Flow**: Using object detection to monitor and analyze real-time traffic data.
-- **Predict Accident-Prone Areas**: Applying time series analysis to identify high-risk zones based on traffic patterns and historical data.
-- **Detect Traffic Violations**: Automatically flagging violations like illegal parking, jaywalking, and helmet non-compliance.
+
 
 What will we use? 
 
 Machine Learning + Deep Learning + Reinforcement Learning + Computer Vision
 
 By focusing on these key areas, TrafficVision BD aims to make roads safer and more organized for all users.
+
+
+
 
 
 # 📺 Featured YouTube Videos
@@ -60,41 +84,6 @@ By focusing on these key areas, TrafficVision BD aims to make roads safer and mo
 https://povashraful.notion.site/Datasets-for-TrafficVisionBD-Unfiltered-13a2c788fce380849917e4c9206db3fe?pvs=74
 
 
-## 📈 Key Features
-- **Object Detection**: Identification of different types of vehicles, road markings, and pedestrians in real-time.
-- **Time Series Analysis**: Forecasts traffic congestion and potential accident hotspots based on historical trends.
-- **Violation Detection**: Flags common violations such as helmet non-compliance, jaywalking, and illegal parking.
-  
-  
-## 🔍 Problem Statement
-In Bangladesh, traffic congestion, frequent accidents, and a lack of reliable traffic data pose significant challenges. Roads are filled with a variety of vehicles, from buses to rickshaws, often on unmarked and overcrowded streets. TrafficVision BD is developed to provide a tailored solution that reflects these local road dynamics and helps create a safer, more efficient traffic system.
-
-
-## 🚀 Current Progress
-Currently, the project is in the **data collection phase**, gathering comprehensive data on:
-- Vehicle counts
-- Traffic patterns
-- Accident-prone zones
-- Common violations
-
-This dataset will be foundational for training the AI models that power TrafficVision BD’s object detection and time series analysis.
-
-
-## 🛠️ Tech Stack
-- **Python**: Core programming language for data processing and model development.
-- **OpenCV**: Image processing and computer vision.
-- **TensorFlow/PyTorch**: For building and training machine learning models.
-- **NumPy & Pandas**: Data manipulation and analysis.
-- **Matplotlib & Seaborn**: Visualization of traffic patterns and insights.
-  
-
-## 📌 Future Plans
-Here’s what’s next for TrafficVision BD:
-- **Enhanced Object Detection**: Fine-tuning the model for better accuracy on congested roads.
-- **Accident Prediction Models**: Developing models that can accurately predict accident-prone areas.
-- **Real-Time Implementation**: Deploying TrafficVision BD in real-time for continuous monitoring and insights.
-- **Policy Support and Urban Planning**: Providing actionable insights for city planners and policymakers to improve infrastructure and safety.
-  
 
 ## 📚 How to Use
 1. **Clone the Repository**:
@@ -103,3 +92,6 @@ Here’s what’s next for TrafficVision BD:
 
 ps. This readme was made by the help of ChatGPT 
 
+
+
+Feel free to explore the repository, watch the videos, and reach out if you’re interested in collaborating or providing feedback!
