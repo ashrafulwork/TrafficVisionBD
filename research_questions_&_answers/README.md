@@ -6,3 +6,6 @@ How can we work with vehicle counter?
 * We can also set a straight bar and count any vehicle that passes through. For example, [https://www.youtube.com/watch?v=SJG3pRjNH7Q]
 
   
+**Ideas**
+
+I can detect helmet 
