@@ -89,13 +89,15 @@ Stay tuned for future updates!
 ![Training Models](project_updates/train1.png)  
 ---
 
-[![Testing pre-trained model for TrafficVisionBD project](https://ytcards.demolab.com/?id=pJJcORNIjhU&title=Testing+pre-trained+model+for+TrafficVisionBD+Project+&lang=en&timestamp=1737072000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "TrafficVisionBD Project Proposal")](https://www.youtube.com/watch?v=pJJcORNIjhU)  
+
 
 
 ## 📺 Featured YouTube Videos  
 Check out the **TrafficVisionBD Project Proposal** video for an in-depth look at the project:  
 
 [![TrafficVisionBD Project Proposal](https://ytcards.demolab.com/?id=QPipnka0E7Q&title=TrafficVisionBD+Project+Proposal&lang=en&timestamp=1731494400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "TrafficVisionBD Project Proposal")](https://www.youtube.com/watch?v=QPipnka0E7Q&t=389s)  
+
+[![Testing pre-trained model for TrafficVisionBD project](https://ytcards.demolab.com/?id=pJJcORNIjhU&title=Testing+pre-trained+model+for+TrafficVisionBD+Project+&lang=en&timestamp=1737072000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "TrafficVisionBD Project Proposal")](https://www.youtube.com/watch?v=pJJcORNIjhU)  
 
 ---
 
