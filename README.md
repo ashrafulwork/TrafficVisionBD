@@ -87,8 +87,10 @@ Stay tuned for future updates!
 
 **Latest Update**: Training models on the dataset:  
 ![Training Models](project_updates/train1.png)  
-![Testing Models]([project_updates/train1.png](https://www.youtube.com/watch?v=pJJcORNIjhU))  
 ---
+
+[![Testing pre-trained model for TrafficVisionBD project](https://ytcards.demolab.com/?id=pJJcORNIjhU&title=Testing+pre-trained+model+for+TrafficVisionBD+Project+&lang=en&timestamp=1737072000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "TrafficVisionBD Project Proposal")](https://www.youtube.com/watch?v=pJJcORNIjhU)  
+
 
 ## 📺 Featured YouTube Videos  
 Check out the **TrafficVisionBD Project Proposal** video for an in-depth look at the project:  
