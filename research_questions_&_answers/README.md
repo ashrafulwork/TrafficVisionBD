@@ -14,3 +14,4 @@ Well, there are many to begin with. I guess Label Studio will be the best fit fo
 **Ideas**
 
 I can detect helmet 
+I can detect license plate
