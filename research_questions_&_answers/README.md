@@ -15,3 +15,7 @@ Well, there are many to begin with. I guess Label Studio will be the best fit fo
 
 I can detect helmet  <br>
 I can detect license plate
+
+About Data Extractions:
+
+We can extract vehicle -> model, color, brand/company, number plate
