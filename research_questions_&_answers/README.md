@@ -20,7 +20,9 @@ I can detect license plate
 
 <br>
 
-Pedestrian intent prediction
+Pedestrian intent prediction:
+
+https://arxiv.org/pdf/2402.12810
 
 About Data Extractions:
 
