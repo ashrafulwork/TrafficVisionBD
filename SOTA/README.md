@@ -5,6 +5,16 @@ https://openaccess.thecvf.com/content/CVPR2024W/UG2/papers/Wei_Feature_Correctiv
 https://openaccess.thecvf.com/content/CVPR2024W/TCV2024/papers/Regmi_T2FNorm_Train-time_Feature_Normalization_for_OOD_Detection_in_Image_Classification_CVPRW_2024_paper.pdf<br><br>
 https://openaccess.thecvf.com/content/CVPR2024W/TCV2024/papers/Shen_Practical_Region-level_Attack_against_Segment_Anything_Models_CVPRW_2024_paper.pdf<br><br>
 https://openaccess.thecvf.com/content/CVPR2024W/TCV2024/papers/Karus_Towards_Explainable_Visual_Vessel_Recognition_Using_Fine-Grained_Classification_and_Image_CVPRW_2024_paper.pdf<br><br>
+https://openaccess.thecvf.com/content/CVPR2024W/GAZE/papers/Mathew_GESCAM__A_Dataset_and_Method_on_Gaze_Estimation_for_CVPRW_2024_paper.pdf<br><br>
+https://openaccess.thecvf.com/content/CVPR2024W/GAZE/papers/Gupta_Exploring_the_Zero-Shot_Capabilities_of_Vision-Language_Models_for_Improving_Gaze_CVPRW_2024_paper.pdf<br><br>
+https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/papers/Bou_Exploring_Robust_Features_for_Few-Shot_Object_Detection_in_Satellite_Imagery_CVPRW_2024_paper.pdf<br><br>
+https://openaccess.thecvf.com/content/CVPR2024W/3DMV/papers/Alzahrani_Selective_Multi-View_Deep_Model_for_3D_Object_Classification_CVPRW_2024_paper.pdf<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 <br><br>
 
 ----------
