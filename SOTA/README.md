@@ -1,3 +1,17 @@
+-------
+
+
+https://openaccess.thecvf.com/content/CVPR2024W/UG2/papers/Wei_Feature_Corrective_Transfer_Learning_End-to-End_Solutions_to_Object_Detection_in_CVPRW_2024_paper.pdf<br><br>
+https://openaccess.thecvf.com/content/CVPR2024W/TCV2024/papers/Regmi_T2FNorm_Train-time_Feature_Normalization_for_OOD_Detection_in_Image_Classification_CVPRW_2024_paper.pdf<br><br>
+https://openaccess.thecvf.com/content/CVPR2024W/TCV2024/papers/Shen_Practical_Region-level_Attack_against_Segment_Anything_Models_CVPRW_2024_paper.pdf<br><br>
+https://openaccess.thecvf.com/content/CVPR2024W/TCV2024/papers/Karus_Towards_Explainable_Visual_Vessel_Recognition_Using_Fine-Grained_Classification_and_Image_CVPRW_2024_paper.pdf<br><br>
+<br><br>
+
+----------
+
+
+
+
 https://jovanavidenovic.github.io/dam-4-sam/ <br><br>
 https://openaccess.thecvf.com/content/CVPR2024/papers/Bansal_VideoCon_Robust_Video-Language_Alignment_via_Contrast_Captions_CVPR_2024_paper.pdf <br><br>
 https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Seeing_Motion_at_Nighttime_with_an_Event_Camera_CVPR_2024_paper.pdf<br><br>
