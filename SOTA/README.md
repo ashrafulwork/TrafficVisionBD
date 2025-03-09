@@ -12,6 +12,17 @@ https://openaccess.thecvf.com/content/CVPR2024W/3DMV/papers/Alzahrani_Selective_
 https://openaccess.thecvf.com/content/CVPR2024W/INRV/papers/Ballerini_Connecting_NeRFs_Images_and_Text_CVPRW_2024_paper.pdf<br><br>
 https://openaccess.thecvf.com/content/CVPR2024W/FAS2024/papers/Tarasiou_Rethinking_the_Domain_Gap_in_Near-infrared_Face_Recognition_CVPRW_2024_paper.pdf<br><br>
 https://openaccess.thecvf.com/content/CVPR2024W/MAT/papers/Ruan_Fully_Test-time_Adaptation_for_Object_Detection_CVPRW_2024_paper.pdf<br><br>
+https://openaccess.thecvf.com/content/CVPR2024W/2WFM/papers/Kerssies_How_to_Benchmark_Vision_Foundation_Models_for_Semantic_Segmentation_CVPRW_2024_paper.pdf<br><br>
+https://openaccess.thecvf.com/content/CVPR2024W/2WFM/papers/Englert_Exploring_the_Benefits_of_Vision_Foundation_Models_for_Unsupervised_Domain_CVPRW_2024_paper.pdf<br><br>
+https://openaccess.thecvf.com/content/CVPR2024W/MIPI/papers/Li_From_Synthetic_to_Real_A_Calibration-free_Pipeline_for_Few-shot_Raw_CVPRW_2024_paper.pdf<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 <br><br>
 <br><br>
 <br><br>
