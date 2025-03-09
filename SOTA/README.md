@@ -1,5 +1,5 @@
 -------
-
+**WORKSHOP**
 
 https://openaccess.thecvf.com/content/CVPR2024W/UG2/papers/Wei_Feature_Corrective_Transfer_Learning_End-to-End_Solutions_to_Object_Detection_in_CVPRW_2024_paper.pdf<br><br>
 https://openaccess.thecvf.com/content/CVPR2024W/TCV2024/papers/Regmi_T2FNorm_Train-time_Feature_Normalization_for_OOD_Detection_in_Image_Classification_CVPRW_2024_paper.pdf<br><br>
@@ -9,9 +9,9 @@ https://openaccess.thecvf.com/content/CVPR2024W/GAZE/papers/Mathew_GESCAM__A_Dat
 https://openaccess.thecvf.com/content/CVPR2024W/GAZE/papers/Gupta_Exploring_the_Zero-Shot_Capabilities_of_Vision-Language_Models_for_Improving_Gaze_CVPRW_2024_paper.pdf<br><br>
 https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/papers/Bou_Exploring_Robust_Features_for_Few-Shot_Object_Detection_in_Satellite_Imagery_CVPRW_2024_paper.pdf<br><br>
 https://openaccess.thecvf.com/content/CVPR2024W/3DMV/papers/Alzahrani_Selective_Multi-View_Deep_Model_for_3D_Object_Classification_CVPRW_2024_paper.pdf<br><br>
-<br><br>
-<br><br>
-<br><br>
+https://openaccess.thecvf.com/content/CVPR2024W/INRV/papers/Ballerini_Connecting_NeRFs_Images_and_Text_CVPRW_2024_paper.pdf<br><br>
+https://openaccess.thecvf.com/content/CVPR2024W/FAS2024/papers/Tarasiou_Rethinking_the_Domain_Gap_in_Near-infrared_Face_Recognition_CVPRW_2024_paper.pdf<br><br>
+https://openaccess.thecvf.com/content/CVPR2024W/MAT/papers/Ruan_Fully_Test-time_Adaptation_for_Object_Detection_CVPRW_2024_paper.pdf<br><br>
 <br><br>
 <br><br>
 <br><br>
