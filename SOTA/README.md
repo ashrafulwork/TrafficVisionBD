@@ -101,6 +101,10 @@ https://arxiv.org/pdf/2312.02051
 https://openaccess.thecvf.com/content/CVPR2024/papers/Lee_Guided_Slot_Attention_for_Unsupervised_Video_Object_Segmentation_CVPR_2024_paper.pdf
 https://arxiv.org/pdf/2405.10053
 https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_One-Prompt_to_Segment_All_Medical_Images_CVPR_2024_paper.pdf
+https://openaccess.thecvf.com/content/CVPR2024/papers/Jiang_Hallucination_Augmented_Contrastive_Learning_for_Multimodal_Large_Language_Model_CVPR_2024_paper.pdf
+https://xk-huang.github.io/segment-caption-anything/
+https://openaccess.thecvf.com/content/CVPR2024/papers/Cao_Towards_Better_Vision-Inspired_Vision-Language_Models_CVPR_2024_paper.pdf
+
 <br><br>
 <br><br>
 <br><br>
