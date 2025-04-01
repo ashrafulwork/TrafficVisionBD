@@ -105,8 +105,8 @@ https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_One-Prompt_to_Segment_A
 https://openaccess.thecvf.com/content/CVPR2024/papers/Jiang_Hallucination_Augmented_Contrastive_Learning_for_Multimodal_Large_Language_Model_CVPR_2024_paper.pdf<br><br>
 https://xk-huang.github.io/segment-caption-anything/<br><br>
 https://openaccess.thecvf.com/content/CVPR2024/papers/Cao_Towards_Better_Vision-Inspired_Vision-Language_Models_CVPR_2024_paper.pdf<br><br>
-
-<br><br>
+https://openaccess.thecvf.com/content/CVPR2024/papers/Wei_Semantic-aware_SAM_for_Point-Prompted_Instance_Segmentation_CVPR_2024_paper.pdf<br><br>
+https://matchinganything.github.io/<br><br>
 <br><br>
 <br><br>
 <br><br>
