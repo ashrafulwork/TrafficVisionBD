@@ -109,7 +109,7 @@ https://openaccess.thecvf.com/content/CVPR2024/papers/Wei_Semantic-aware_SAM_for
 https://matchinganything.github.io/<br><br>
 https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Enhancing_Visual_Document_Understanding_with_Contrastive_Learning_in_Large_Visual-Language_CVPR_2024_paper.pdf<br><br>
 https://openaccess.thecvf.com/content/CVPR2024/papers/Cha_Honeybee_Locality-enhanced_Projector_for_Multimodal_LLM_CVPR_2024_paper.pdf<br><br>
-<br><br>
+https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_LayoutLLM_Layout_Instruction_Tuning_with_Large_Language_Models_for_Document_CVPR_2024_paper.pdf<br><br>
 <br><br>
 <br><br>
 <br><br>
