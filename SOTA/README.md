@@ -76,6 +76,12 @@ https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Iterated_Learning_Im
 https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Image-to-Image_Matching_via_Foundation_Models_A_New_Perspective_for_Open-Vocabulary_CVPR_2024_paper.pdf<br><br>
 https://openaccess.thecvf.com/content/CVPR2024/papers/Addepalli_Leveraging_Vision-Language_Models_for_Improving_Domain_Generalization_in_Image_Classification_CVPR_2024_paper.pdf<br><br>
 https://corleone-huang.github.io/realcustom/<br><br>
+
+http://arxiv.org/abs/2505.06280 <br> <br>
+
+
+
+
 https://openaccess.thecvf.com/content/CVPR2024/papers/He_APSeg_Auto-Prompt_Network_for_Cross-Domain_Few-Shot_Semantic_Segmentation_CVPR_2024_paper.pdf<br><br>
 https://openaccess.thecvf.com/content/CVPR2024/papers/Shao_DeIL_Direct-and-Inverse_CLIP_for_Open-World_Few-Shot_Learning_CVPR_2024_paper.pdf<br><br>
 https://openaccess.thecvf.com/content/CVPR2024/papers/Kara_DIOD_Self-Distillation_Meets_Object_Discovery_CVPR_2024_paper.pdf<br><br>
